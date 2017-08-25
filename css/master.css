@@ -6,10 +6,11 @@ body {
 
 #header-container,
 #info-container {
-  background-color: #2a2a2a;
+  background-color: #333;
   color: #0f5ead;
   font-family: 'PT Sans', sans-serif;
 }
+
 
 #header-container .navbar-toggler {
   color: white
